@@ -87,6 +87,21 @@ nav a {
     transform: translateY(-2px);
 }
 
+.whatsapp-btn {
+    display: inline-block;
+    background-color: #25D366;
+    color: white !important;
+    padding: 12px 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.whatsapp-btn:hover {
+    background-color: #128C7E;
+}
+
 /* Sections */
 section {
     padding: 65px 8%;
