@@ -68,16 +68,6 @@ nav a {
     padding: 12px 25px;
     text-decoration: none;
     border-radius: 5px;
-    margin-top: 15px;
-}
-
-.btn {
-    display: inline-block;
-    background-color: #fca311;
-    color: #14213d;
-    padding: 12px 25px;
-    text-decoration: none;
-    border-radius: 5px;
     margin: 10px;
     font-weight: bold;
 }
